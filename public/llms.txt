@@ -1,0 +1,70 @@
+# ליצ׳י גרופ — Generative Engine Optimization Map
+
+> A property management business focused on real estate asset management. The specific niche, services, and brand identity are yet to be defined.
+
+---
+
+## Pages
+
+### דף הבית
+https://-e6073cc1.zappy5.app
+מחפשים ניהול נכסים מקצועי? ליצ׳י גרופ מציעה שירותי ניהול נכסים מתקדמים, השכרה חכמה וטיפול מלא בנכס שלך. כנסו עכשיו וגלו איך נמקסם את הרווחים שלכם!
+
+### תודה שפניתם אלינו | ליצ׳י גרופ
+https://-e6073cc1.zappy5.app/thank-you
+ליצ׳י גרופ - תודה שפניתם אלינו | ליצ׳י גרופ
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e6073cc1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e6073cc1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e6073cc1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e6073cc1.zappy5.app
+- Endpoint: https://-e6073cc1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ליצ׳י גרופ
+A property management business focused on real estate asset management. The specific niche, services, and brand identity are yet to be defined.
+
+## Target Audience
+- בעלי נכסים מסחריים
+- בעלי מתחמים למגורים
+- משקיעי נדל"ן
+
+## Industry
+Property Management
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e6073cc1.zappy5.app/sitemap.xml
+- Robots: https://-e6073cc1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e6073cc1.zappy5.app/llms-full.txt
